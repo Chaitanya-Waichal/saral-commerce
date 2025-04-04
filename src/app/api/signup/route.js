@@ -28,7 +28,7 @@ export async function POST(request) {
     const hashedPassword = await hashPassword(password);
 
 
-    await createUser(email, hashedPassword.hash, username, accountType);
+    await createUser(email, hashedPassword, username, accountType);
 
     return new Response(
       JSON.stringify({ success: true, message: "User registered successfully" }),
