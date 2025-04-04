@@ -2,11 +2,8 @@
 name = "saral-commerce"
 compatibility_date = "2024-03-21"
 compatibility_flags = ["nodejs_compat"]
-<<<<<<< HEAD
-pages_build_output_dir = ".next"
-=======
 pages_build_output_dir = ".vercel/output/static"
->>>>>>> 6bf5615e9de31ce0ee00b4a1571db507c5e607ea
+
 
 
 
@@ -14,3 +11,4 @@ pages_build_output_dir = ".vercel/output/static"
 binding = "DB"
 database_name = "saral-commerce"
 database_id = "ce1cb119-2a15-4ac2-8eec-b2774c0ba3b3"
+preview_database_id = "ce1cb119-2a15-4ac2-8eec-b2774c0ba3b3"
