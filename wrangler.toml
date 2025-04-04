@@ -2,7 +2,11 @@
 name = "saral-commerce"
 compatibility_date = "2024-03-21"
 compatibility_flags = ["nodejs_compat"]
+<<<<<<< HEAD
 pages_build_output_dir = ".next"
+=======
+pages_build_output_dir = ".vercel/output/static"
+>>>>>>> 6bf5615e9de31ce0ee00b4a1571db507c5e607ea
 
 
 
