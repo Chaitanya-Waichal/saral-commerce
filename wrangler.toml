@@ -10,5 +10,5 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "saral-commerce"
-database_id = "ce1cb119-2a15-4ac2-8eec-b2774c0ba3b3"
-preview_database_id = "ce1cb119-2a15-4ac2-8eec-b2774c0ba3b3"
+database_id = "2d810400-1b49-47a9-8735-efce746beb4e"
+preview_database_id = "2d810400-1b49-47a9-8735-efce746beb4e"
